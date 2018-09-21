@@ -16,7 +16,7 @@ ____   ______   ______   ______   ______
 /_____/  /_____/  /_____/  /_____/  /_____/  /_____/  /_____/  /_____/  /_____/  /_____/  /_____/  /_____/ 
 
 Rights:
-Codes Server
+Codes Server By Zeyad,Royale
 ______   ______   ______   ______   ______   ______   ______   ______   ______   ______   ______   ______ 
 /_____/  /_____/  /_____/  /_____/  /_____/  /_____/  /_____/  /_____/  /_____/  /_____/  /_____/  /_____/ 
 
@@ -31,7 +31,7 @@ To Get Your Token
 Open This Link And Click F12 : discordapp.com/api/v6 
 And Click Application
 And Click Local Stronge And Click https://discordapp.com/
-And Click To Token
+And Click To TokenBy Zeyad,Royale
 And Click To Token And Copy IT !The End ..
 ______   ______   ______   ______   ______   ______   ______   ______   ______   ______   ______   ______ 
 /_____/  /_____/  /_____/  /_____/  /_____/  /_____/  /_____/  /_____/  /_____/  /_____/  /_____/  /_____/ 
