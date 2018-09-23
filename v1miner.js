@@ -24,6 +24,6 @@ const channel = "492747482942406659";//ايدي الروم
     },305);//Delay Time
     })
 
-client.login("NDI5OTcyMDMwMDkyNDc2NDM3.DoagHQ.h_F0VOXDMSLFgnVF7PJ7ymgpc0Q")//Your Token
+client.login("token")//Your Token
 
   
