@@ -185,4 +185,4 @@ function timerFunc() {
 var timer = setTimeout(timerFunc, 1000);
 
 
-client.login("NDI5OTcyMDMwMDkyNDc2NDM3.DoagHQ.h_F0VOXDMSLFgnVF7PJ7ymgpc0Q");
+client.login("token");
